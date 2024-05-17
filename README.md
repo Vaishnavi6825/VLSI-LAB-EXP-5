@@ -35,11 +35,12 @@ STEP:11 On the board, by giving required input, the LEDs starts to glow light, i
 STEP:12 Load the Bit file into the SPARTAN 6 FPGA 
 
 Logic Diagram :
-
+```
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-5/assets/6987778/34ec5d63-2b3b-4511-81ef-99f4572d5869)
 
-
+```
 VERILOG CODE:
+
 ```
 module fsm( clk, rst, inp, outp);
 input clk, rst, inp;
@@ -91,7 +92,9 @@ endmodule
 OUTPUT:
 
 ```
-![image](https://github.com/Vaishnavi6825/VLSI-LAB-EXP-5/assets/131337024/6c3f660e-8473-4302-a487-c3506437f2c7)
+
+![image](https://github.com/Vaishnavi6825/VLSI-LAB-EXP-5/assets/131337024/04be149c-be6f-4f93-a59e-6f50c62d17e8)
+
 ```
 
 RESULT:
